@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-[Woowa Brothers Company](https://www.woowahan.com/)
+- 🔭 I’m currently working on ...  
+    * [Woowa Brothers Company](https://www.woowahan.com/)
 
 - 🌱 I’m currently learning ...
-* Kotlin
-* Java
+    * Kotlin
+    * Java
 
 - 👯 I’m looking to collaborate on ...
 
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 📫 How to reach me: ...
-* linkedin [https://www.linkedin.com/in/jiwhunkim/](https://www.linkedin.com/in/jiwhunkim/)
-* facebook [https://www.facebook.com/Jiwhun.Kim](https://www.facebook.com/Jiwhun.Kim)
-* email [jiwhun.kim@outook.com](jiwhun.kim@outook.com)
+    * linkedin [https://www.linkedin.com/in/jiwhunkim/](https://www.linkedin.com/in/jiwhunkim/)
+    * facebook [https://www.facebook.com/Jiwhun.Kim](https://www.facebook.com/Jiwhun.Kim)
+    * email [jiwhun.kim@outook.com](jiwhun.kim@outook.com)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
